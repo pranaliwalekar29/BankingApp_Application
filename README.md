@@ -21,7 +21,17 @@ This is a backend system for managing banking accounts, built using **Java**, **
 - **MySQL**
 - **Maven**
 
----
+## 📬 Postman Collection
+
+You can test all API endpoints using the provided Postman collection:
+📁 `postman/BankApplicationSpring.postman_collection.json`
+
+**How to Use:**
+1. Open Postman.
+2. Click `Import`.
+3. Select the above file.
+4. Start testing the APIs (`Add Account`, `Get Account by ID`, `Deposit`, `Withdraw`, `Delete`, etc.)
+
 
 ## ⚙️ How to Run This Project Locally
 
